@@ -4,7 +4,6 @@
   "name": "Twitch Streamers",
   "description": "This extension helps us find our favourite streamers.",
   "version": "0.1",
-
   "browser_action": {
     "default_icon": "icon.png",
     "default_popup": "popup.html"
